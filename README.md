@@ -4,6 +4,9 @@ AssilOS 1.2 is 16-bit OS that based on AtieDOS.
 ## License
 AssilOS 1.2 is released under BSD 3-Clause, you can modify, study, or sell under BSD terms.
 
+## Screenshot
+![AssilOS 1.2 on virtualbox](SCREENSHOT.PNG)
+
 ## Features
 - Stra: an brainfuck interpreter
 - changing prompt: you can actaully customize prompt 
