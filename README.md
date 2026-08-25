@@ -1,5 +1,5 @@
 # AssilOS 1.2
-AssilOS 1.2 is 16-bit OS that based on AtieDOS by AtieP.
+AssilOS 1.2 is 16-bit OS that based on AtieDOS.
 
 ## Screenshot
 ![AssilOS 1.2 on virtualbox](SCREENSHOT.PNG)
@@ -10,7 +10,7 @@ AssilOS 1.2 is released under BSD 3-Clause, you can modify, study, or sell under
 ## Features
 - Stra: an brainfuck interpreter
 - changing prompt: you can actaully customize prompt 
-- writer, writing text
+- write: write text
 
 ## Getting started
 AssilOS 1.2 is written in Assembly, you need:
